@@ -11,3 +11,7 @@
 ### Description
 
 Improving access to AgPipeline through documentation
+
+### Code of Conduct
+
+See the [CoC](./CoC.md)
